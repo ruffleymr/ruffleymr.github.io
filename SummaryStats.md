@@ -1,3 +1,3 @@
 ### Summary Statistics used in CAMI
 
-![image](./SummaryStatsDescriptions.pdf)
+![image](./images/SumStats.jpeg)
