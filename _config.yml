@@ -1,18 +1,25 @@
-#Created by webjeda - http://webjeda.com
+# Site settings
+# in the templates available like {{ site.myvariable }}.
+title: Clean portfolio theme for Jekyll powered by Bootstrap 4.
+email: your-email@domain.com
+brand: Your Name
+headline: Inventor, Engineer and Futurist
+description: > # this means to ignore newlines until "baseurl:"
+  New Site
+baseurl: "" # the subpath of your site, e.g. /blog
+url: "http://example.com" # the base hostname & protocol for your site
+copyright: 2016 Whatever Company, Inc. All Rights Reserved.
 
-title: Bheema #Keep it short
-email: your@email.com
+# Build settings
+markdown: kramdown
 
+# Account ids
+snapwidget: 247552
 
-baseurl: /bheema
+# Contacts
+email: your.name@gmail.com
+phone: +1-800-555-2016
 
-sass:
- style: compressed
- 
- 
-# Tracker
-analytics: UA-83979019-1
- 
-### exclude the instructions / write-up in the README.md
-exclude:
-- README.md
+# Tracking
+googleAnalitycsID: UA-83933844-1
+
