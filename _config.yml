@@ -49,7 +49,7 @@ social:
 # Postal address (add as many lines as necessary)
 address:
   - line: Institute for Bioinformatics and Evolutionary Studies
-  - line: University of Idaho, Moscow, ID 83843-3051
+  - line: University of Idaho, Moscow, ID
 
 # Credits content
 credits: 'Freelancer is a free to use, open source Bootstrap theme created by <a href="http://startbootstrap.com">Start Bootstrap</a>.'
