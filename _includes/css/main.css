@@ -206,6 +206,7 @@ section.success {
     position: relative;
     margin: 0 auto;
     max-width: 400px;
+    max-height: 300px
 }
 
 #portfolio .portfolio-item .portfolio-link .caption {
@@ -266,7 +267,7 @@ section.success {
 .btn-outline:focus,
 .btn-outline:active,
 .btn-outline.active {
-    border: solid 2px #fff;
+    border: solid 1px #fff;
     color: #{{ site.color.primary }};
     background: #fff;
 }
